@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Gadiel 👋
+### 🚀 About Me
+I'm a Data Scientist, Economist And M.Sc. in Statistics. Currently, I'm developing a Retrieval-Augmented Generation (RAG) system for a regulatory body to provide responses to the general public about new regulations, policies, and normative frameworks.
+
+**My Expertise Includes:**
+- 📊 **Research Modeling** – Customer behavior, decision-making, pricing strategies, education dropout analysis, time series forecasting, and actuarial models.
+- 💰 **Finance & Market Analysis** – Financial risk modeling, credit scoring, customer segmentation, and business growth strategies.
+- 🌎 **Industry Knowledge** – Experience in Colombia’s financial system, regulatory frameworks, and public policy analytics.
+
+
+
+
+
+
+
+
 
 <!--
 **gadielfelipe/gadielfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
